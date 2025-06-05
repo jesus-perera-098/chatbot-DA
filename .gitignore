@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+token.json
+keys.json
+base-baileys-memory/credenciales/credenciales.json
+.eslintrc.js
